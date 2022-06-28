@@ -17,3 +17,4 @@ def fizzbuzz():
             print("Buzz ", end="")
         else:
             print(f"{number} ", end="")
+            
