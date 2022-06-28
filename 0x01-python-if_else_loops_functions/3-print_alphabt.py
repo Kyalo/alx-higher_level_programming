@@ -4,4 +4,4 @@
 # except q and e.
 for l in range(97, 123):
     if chr(l) is not 'q' and chr(l) is not 'e':
-        print(f"{chr(l)}", end="")
+        print("{}".format(chr(l)), end="")
